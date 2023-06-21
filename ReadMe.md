@@ -12,9 +12,9 @@
 # Installation:-
 ### To install and set up the application, follow these steps:-
 
-- Clone the repository: $ git clone <repository_url>
-- Navigate to the project directory: $ cd <project_directory>
-- Install the dependencies: $ npm install
+- Clone the repository: **$ git clone https://github.com/MayankSarvadhi/SimplaeCrudWithoutExpressJs.git**
+- Navigate to the project directory: **$ cd ~/Desktop/Projects/crud_without_express**
+- Install the dependencies: **$ npm install**
 
 # Configuration:-
 ### Before running the application, you need to configure the database connection. Follow these steps:
