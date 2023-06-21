@@ -1,6 +1,6 @@
 # Node.js Server-side Application
 
-- This is a simple server-side application built using Node.js without using Express. It provides various APIs to perform CRUD operations on a MySQL or PostgreSQL database. The application allows you to manage states and cities, with a relationship between the two tables.
+- This is a simple server-side application built using Node.js without using Express. It provides various APIs to perform CRUD operations on a PostgreSQL database. The application allows you to manage states and cities, with a relationship between the two tables.
 
 # Prerequisites:-
 ### Before running this application, ensure that you have the following:
